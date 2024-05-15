@@ -80,7 +80,7 @@ int three =3;
 if (one>two && one>three ){
     System.out.println(one);
 }
-if(two>one && two>three && ){
+if(two>one && two>three ){
     System.out.println(two);
 } else {
     System.out.println(three);
